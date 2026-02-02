@@ -57,7 +57,7 @@ As an **Electrical & Electronics Engineer (EEE)**, I approach data analysis as a
 ---
 
 ## 📂 Repository Structure
-* `Data/` - Contains the raw Excel/CSV files used for analysis.
-* `Dashboard/` - The final Power BI (.pbix) file.
-* `Screenshots/` - Images of the dashboard pages (Executive, Inventory, Operations).
+* `Data` - Contains the raw Excel/CSV files used for analysis.
+* `Dashboard` - The final Power BI (.pbix) file.
+* `Screenshots` - Images of the dashboard pages (Executive, Inventory, Operations).
 * `README.md` - Project documentation.
